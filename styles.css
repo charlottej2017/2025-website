@@ -315,13 +315,14 @@ footer {
     line-height: 22px;
     text-align: center;
   }
+
+  .hero h2 {
+    font-size: 22px;
+    line-height: 22px;
+  }
   .container-about {
     flex-direction: column;
     text-align: center;
-  }
-
-  .skills-hero h1 {
-    padding: 0 0 25px 0;
   }
 
   a {
