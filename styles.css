@@ -300,11 +300,13 @@ section h2 {
 }
 
 footer {
+  display: flex;
+  align-items: center;
   text-align: center;
   padding: 2rem;
-  font-size: 0.85rem;
   color: #888;
-  margin-top: auto;
+  bottom: 0;
+  width: 100%;
 }
 
 @media screen and (max-width: 575px) {
